@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
 #EXTINF:-1 tvg-id="2556"tvg-logo="http://epg.one/img2/2556.png"group-title="Азербайджан | Azərbaycan",CBC
 http://rhsbjv7k.tvclub.xyz/iptv/SGX35SKUSYGGLR/2196/index.m3u8
 #EXTINF:-1 tvg-id="2551"tvg-logo="http://epg.one/img2/2551.png"group-title="Азербайджан | Azərbaycan",ARB 24 HD
